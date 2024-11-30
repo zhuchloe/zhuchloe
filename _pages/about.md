@@ -6,16 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year JD/PhD student at Duke University [Department of Computer Science](https://cs.duke.edu/) and [School of Law](https://law.duke.edu/).
+I am a first-year JD/PhD student at Duke University, [Department of Computer Science](https://cs.duke.edu/) and [School of Law](https://law.duke.edu/).
 
-For my PhD studies, I am fortunate to be advised by [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). My research revolves around interpretable machine learning, where we develop models that are transparent, trustworthy, and reliable. 
+For my PhD study, I am fortunate to be advised by [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). My research focuses on interpretable machine learning, where we develop models that are transparent, trustworthy, and reliable.
 
-I obtained my BSc in Computer Science from Duke University, where I graduated with [Highest Distinction](https://cs.duke.edu/undergraduate/research/distinction) and [Alex Vasilos Memorial Award](https://cs.duke.edu/undergrad/awards). During this period, I worked with [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), [Prof. Brandon Fain](https://sites.duke.edu/btfain/), and [Prof. Jian Pei](https://ece.duke.edu/people/jian-pei/) on various machine learning topics, such as interpretable machine learning for risk prediction, natural language processing for healthcare, and topic modelling.
+I recently graduated with [Highest Distinction](https://cs.duke.edu/undergraduate/research/distinction) and [Alex Vasilos Memorial Award](https://cs.duke.edu/undergrad/awards) from Duke University, with a Bachelor of Science in Computer Science. During my undergraduate studies, I worked with [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), [Prof. Brandon Fain](https://sites.duke.edu/btfain/), and [Prof. Jian Pei](https://ece.duke.edu/people/jian-pei/) on a range of machine learning topics, including risk prediction, natural language processing for healthcare, and topic modeling. Prior to my study at Duke, I was a [Dean's Circle Scholar](https://liberalstudies.nyu.edu/academics/honors-and-awards.html) and a philosophy student at New York University, where I founded [NYU Philosophy Forum](https://nyuphilforum.org/) and developed a deeper interest in social justice and ethical decision-making.
 
-When I'm not doing research, I enjoy photography and playing tennis.
+Beyond academics, I enjoy photography and playing tennis.
 
 # News
 * **Aug 2024**: 🔛 I started my doctural studies at Duke University.
+* **Jun 2024**: 💻 I started my internship at Zhong Lun Law Firm as a legal intern in Dispute Resolution, Compliance, and Government Regulation
 * **May 2024**: 🎓 I graduated from Duke University with my Bachelor's Degree
 
 # Publications
@@ -51,7 +52,7 @@ When I'm not doing research, I enjoy photography and playing tennis.
   [[PDF](https://www.atlantis-press.com/proceedings/ichssr-21/125956750)]
 
 # Service
-- **Reviewer, ICLR 2025**
-- **Reviewer, COLING 2025**
-- **Reviewer, AJAI**
+- Reviewer, ICLR 2025
+- Reviewer, COLING 2025
+- Reviewer, AJAI
 
