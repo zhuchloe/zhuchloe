@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a first-year JD/PhD student at Duke University, [Department of Computer Science](https://cs.duke.edu/) and [School of Law](https://law.duke.edu/).
 
-For my PhD study, I am fortunate to be advised by [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). My research focuses on interpretable machine learning, where we develop models that are transparent, trustworthy, and reliable.
+For my PhD study, I am fortunate to be advised by [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) in the [Interpretable Machine Learning Lab](https://users.cs.duke.edu/~cynthia/lab.html). My research focuses on interpretable machine learning, where we develop models that are transparent, trustworthy, and reliable.
 
 I recently graduated with [Highest Distinction](https://cs.duke.edu/undergraduate/research/distinction) and [Alex Vasilos Memorial Award](https://cs.duke.edu/undergrad/awards) from Duke University, with a Bachelor of Science in Computer Science. During my undergraduate studies, I worked with [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), [Prof. Brandon Fain](https://sites.duke.edu/btfain/), and [Prof. Jian Pei](https://ece.duke.edu/people/jian-pei/) on a range of machine learning topics, including risk prediction, natural language processing for healthcare, and topic modeling. Prior to my study at Duke, I was a [Dean's Circle Scholar](https://liberalstudies.nyu.edu/academics/honors-and-awards.html) and a philosophy student at New York University, where I founded [NYU Philosophy Forum](https://nyuphilforum.org/) and developed a deeper interest in social justice and ethical decision-making.
 
