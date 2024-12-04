@@ -117,8 +117,10 @@ blockquote {
 
 a {
   text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
+    outline: 0;
   }
 
   &:hover,
