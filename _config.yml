@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chloe Q. Zhu"
+title                    : "Chloe Qinyu Zhu"
 title_separator          : "-"
-name                     : &name "Chloe Q. Zhu"
-description              : &description "JD/PhD in CS at Duke University"
+name                     : &name "Chloe Qinyu Zhu"
+description              : &description "JD-PhD in CS at Duke University"
 url                      : https://zhuchloe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuchloe/zhuchloe.github.io"
@@ -22,9 +22,9 @@ repository               : "zhuchloe/zhuchloe.github.io"
 author:
   # Biographic information
   avatar           : "my-head.jpg"
-  name             : "Chloe Q. Zhu"
+  name             : "Chloe Qinyu Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "JD/PhD in CS at Duke University"
+  bio              : "JD-PhD in CS at Duke University"
   location         : "Durham, NC, United States"
   employer         : "Duke University"
   uri              : # URL

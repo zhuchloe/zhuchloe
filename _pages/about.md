@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year JD/PhD student at Duke University, [Department of Computer Science](https://cs.duke.edu/) and [School of Law](https://law.duke.edu/).
+I am a first-year JD-PhD student at Duke University, [Department of Computer Science](https://cs.duke.edu/) and [School of Law](https://law.duke.edu/).
 
 For my PhD study, I am fortunate to be advised by [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) in the [Interpretable Machine Learning Lab](https://users.cs.duke.edu/~cynthia/lab.html). My research focuses on interpretable machine learning, where we develop models that are transparent, trustworthy, and reliable.
 
