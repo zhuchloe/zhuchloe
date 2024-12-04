@@ -52,8 +52,5 @@ Beyond academics, I enjoy photography and playing tennis.
   [[PDF](https://www.atlantis-press.com/proceedings/ichssr-21/125956750)]
 
 # Service
-- Reviewer, ICLR 2025
-- Reviewer, COLING 2025
-- Reviewer, IJCNN 2025
-- Reviewer, AJAI
+- Reviewer: ICLR 2025, COLING 2025, IJCNN 2025, AJAI
 
