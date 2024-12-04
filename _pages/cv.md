@@ -7,4 +7,4 @@ author_profile: true
   # - /resume
 
 ---
-<meta http-equiv="refresh" content="0; url=/files/cv-git.pdf"> -->
+<meta http-equiv="refresh" content="0; url=/files/cvdec24.pdf"> -->
