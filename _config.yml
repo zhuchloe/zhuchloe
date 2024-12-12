@@ -12,7 +12,7 @@ title                    : "Chloe Qinyu Zhu"
 title_separator          : "-"
 name                     : &name "Chloe Qinyu Zhu"
 description              : &description "JD-PhD in CS at Duke University"
-url                      : https://chloe-zhu.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://chloe-zhu.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuchloe/zhuchloe.github.io"
 
