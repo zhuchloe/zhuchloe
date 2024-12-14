@@ -25,6 +25,7 @@ Beyond academics, I enjoy photography and playing tennis.
 
 - **_Fast and Interpretable Mortality Risk Score for Critical Care Patient_** \
   **Chloe Qinyu Zhu**<sup>\*</sup>, Muhang Tian<sup>\*</sup>,  Lesia Semenova, Jiachang Liu, Jack Xu, Joseph Scarpa, Cynthia Rudin. 2024.
+  Journal of the American Medical Informatics Association.
   [[PDF](https://arxiv.org/pdf/2311.13015)]
 
 - **_Hierarchical Multi-Label Classification of Online Vaccine Concerns_** \
