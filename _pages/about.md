@@ -55,5 +55,5 @@ Beyond academics, I enjoy photography and playing tennis.
 
 # Service
 - Conference Reviewer: ICLR 2025, AAAI 2025, COLING 2025, IEEE IJCNN 2025
-- Journal Editor: CRCL, AJAI
+- Journal Editor: Journal of Cross-disciplinary Research in Computational Law, American Journal of Artificial Intelligence
 
