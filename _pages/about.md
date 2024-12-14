@@ -54,6 +54,6 @@ Beyond academics, I enjoy photography and playing tennis.
   [[PDF](https://www.atlantis-press.com/proceedings/ichssr-21/125956750)]
 
 # Service
-- Conference Reviewer: ICLR 2025, AAAI 2025, COLING 2025, IJCNN 2025
+- Conference Reviewer: ICLR 2025, AAAI 2025, COLING 2025, IEEE IJCNN 2025
 - Journal Editor: CRCL, AJAI
 
