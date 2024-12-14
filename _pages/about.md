@@ -15,6 +15,7 @@ I recently graduated with [Highest Distinction](https://cs.duke.edu/undergraduat
 Beyond academics, I enjoy photography and playing tennis.
 
 # News
+* **Dec 2024**: 🎉 Our paper [Fast and Interpretable Mortality Risk Score for Critical Care Patient](https://arxiv.org/pdf/2311.13015) is accepted by [JAMIA](https://academic.oup.com/jamia).
 * **Aug 2024**: 🔛 I started my doctural studies at Duke University.
 * **Jun 2024**: 💻 I started my internship at Zhong Lun Law Firm as a legal intern in Dispute Resolution, Compliance, and Government Regulation
 * **May 2024**: 🎓 I graduated from Duke University with my Bachelor's Degree
